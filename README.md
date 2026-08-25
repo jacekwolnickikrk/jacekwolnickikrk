@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jacek Wolnicki 👋
 
-<!--
-**jacekwolnickikrk/jacekwolnickikrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior AWS DevOps Engineer — CI/CD · Docker · Kubernetes · Terraform
 
-Here are some ideas to get you started:
+Currently a Technical Support Engineer (L4) at Microsoft CSS (Edge/Browser, via LTIMindtree), transitioning into AWS DevOps. Based in Cracow, Poland — open to Cracow, Warsaw, and hybrid roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured project
+
+**[FinalDevOpsProject](https://github.com/jacekwolnickikrk/FinalDevOpsProject)** — End-to-end CI/CD pipeline for a Java retail app: `Git → Jenkins → Maven → Docker → Ansible → Kubernetes`, monitored with Prometheus + Grafana, running on AWS. Built as the capstone for the Purdue University × Edureka Post Graduate Program in DevOps (graded Excellent). Build-to-deploy under 15 minutes, one-click rollback.
+
+## 🛠️ Stack
+
+`AWS` `Docker` `Kubernetes` `Jenkins` `Ansible` `Terraform` `Prometheus` `Grafana` `Linux`
+
+## 📜 Certifications & training
+
+Post Graduate Program in DevOps — Purdue University × Edureka. Currently preparing for HashiCorp Terraform Associate (exam 09/2026).
+
+## 📫 Connect
+
+LinkedIn: [linkedin.com/in/jacek-wolnicki-krakow](https://www.linkedin.com/in/jacek-wolnicki-krakow/pl/)
